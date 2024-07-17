@@ -1,14 +1,10 @@
 {
 	"index": "Introduction",
-	"about": {
-		"title": "About",
-		"type": "page"
-	},
+	"wiki": "Wiki",
 	"contact": {
 		"title": "Contact ↗",
 		"type": "page",
 		"href": "https://twitter.com/nitinpanwarrr",
 		"newWindow": true
-	},
-	"wiki": "Wiki"
+	}
 }
